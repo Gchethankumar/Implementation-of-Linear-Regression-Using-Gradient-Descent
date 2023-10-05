@@ -108,7 +108,40 @@ predict2 = predict(np.array([1, 7]), theta)*10000
 print("For population = 70,000, we predict a profit of $"+str(round(predict2, 0)))
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+#### Profit Prediction Graph:
+
+![Screenshot from 2023-10-05 10-18-12](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/be61d168-0640-4ed5-bac7-59ae16c705dc)
+
+
+#### Compute cost value:
+
+![Screenshot from 2023-10-05 10-18-45](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/3f0d3b66-8556-4056-952f-955e30abccc2)
+
+
+#### h(x) value:
+
+![Screenshot from 2023-10-05 10-18-52](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/484e0894-59d8-43bd-84e1-533425851a8f)
+
+
+#### Cost function using gradient descent Graph:
+
+![Screenshot from 2023-10-05 10-19-27](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/4e50a4c3-9022-45b3-b17c-97e242c55932)
+
+
+#### Profit prediction Graph:
+
+![Screenshot from 2023-10-05 10-19-36](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/f3484d4b-3e87-4b36-9237-83b00b80a646)
+
+
+#### Profit for the Population 35,000 :
+
+![Screenshot from 2023-10-05 10-19-47](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/ea7e4ec8-e998-4678-b592-8b1fdd16b006)
+
+
+#### Profit for the Population 70,000 :
+
+![Screenshot from 2023-10-05 10-19-53](https://github.com/Gchethankumar/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118348224/d4f0c3d6-b088-4c1e-b44d-5e9625554659)
 
 
 ## Result:
